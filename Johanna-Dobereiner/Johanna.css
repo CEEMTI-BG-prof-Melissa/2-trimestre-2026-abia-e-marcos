@@ -62,11 +62,14 @@ nav a:hover {
 .texto{
     display:inline-block;
     width:80%;
+    text-align: justify;           
 }
 
 .texto2{
     width: 93%;
+    text-align: justify;
 }
+
 li a{
     text-decoration: none;
 }
