@@ -1,3 +1,7 @@
+html{
+    scroll-behavior: smooth;
+}
+
 header{
    background: #ffffff;
     background: linear-gradient(90deg,rgba(255, 255, 255, 1) 0%, rgba(136, 235, 177, 1) 28%, rgba(93, 212, 143, 1) 50%, rgba(136, 235, 177, 1) 79%, rgba(255, 255, 255, 1) 100%);
