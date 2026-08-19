@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
   </head>
   <body>
-    <? php
+    <?php
     $preco = 120;
     $quantidade = 3;
     $desconto = 30;
